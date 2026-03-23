@@ -3,7 +3,7 @@ import sys
 import cobra
 import os
 import pycomo
-test_model_dir = "Geodiabarretti"
+test_model_dir = "../models"
 named_models = pycomo.load_named_models_from_dir(test_model_dir)
 
 for model in named_models.values():
@@ -20,5 +20,5 @@ com_model_obj = pycomo.CommunityModel(single_org_models, community_name)
 com_model_obj.model
 com_model_obj.summary()
 com_model_obj.report()
-com_model_obj.save("../Downloads/testcommunity.sbml")
+com_model_obj.save("../models/communitypycomofinal.sbml")
 
