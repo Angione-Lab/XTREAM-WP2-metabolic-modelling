@@ -1,0 +1,16 @@
+,reaction_id,min_flux,max_flux
+0,Gb1bin16_fraction_reaction,0.0,0.0
+1,Gb1bin17_fraction_reaction,0.0,1.0
+2,Gb1bin20_fraction_reaction,0.0,1.0
+3,Gb1bin43_fraction_reaction,0.0,0.0
+4,Gb2bin20_fraction_reaction,0.0,1.0
+5,Gb2bin21_fraction_reaction,0.0,1.0
+6,Gb4bin17_fraction_reaction,0.0,0.0
+7,Gb7bin10_fraction_reaction,0.0,0.0
+8,Gb7bin15_fraction_reaction,0.0,1.0
+9,Gb7bin28_fraction_reaction,0.0,0.0
+10,Gb7bin5_fraction_reaction,0.0,1.0
+11,Gb7bin9_fraction_reaction,0.0,0.0
+12,Gb850_fraction_reaction,0.0,0.0
+13,Gb8bin5_fraction_reaction,0.0,1.0
+14,community_biomass,25.059426,25.059426
